@@ -20,7 +20,7 @@ node index.js
 
 ## Inspiration
 
-I have served as a Korean soldier in US Army for two years, and one of my jobs was to help my fellow soldiers to transition into a civilian. Sadly, most of them were helpless during the transition, not because they didn't try, but because they didn't know how to. This is why, based on my experience, we decided to make a platform that is much more accessible to veterans.
+Young Jun has served as a Korean soldier in US Army for two years, and one of his jobs was to help his fellow soldiers' transitions back into civilian life. Sadly, most of them were helpless during the transition, not because they didn't try, but because they didn't know how to. We hoped to create a platform that is easily accessible and helpful for the veterans.
 
 ## What it does
 
